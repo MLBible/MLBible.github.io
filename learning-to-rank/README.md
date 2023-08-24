@@ -1,8 +1,3 @@
----
-layout: default
-mathjax: true
----
-
 # Learning To Rank
 
 Sample text.
