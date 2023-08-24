@@ -2,7 +2,7 @@
 
 Sample text.
 
-This is an inline equation: $x = y + z$
+This is an inline equation: $$x = y + z$$
 
 Display equation:
 
