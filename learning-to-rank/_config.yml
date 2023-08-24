@@ -1,0 +1,6 @@
+# This is a comment in YAML
+title: My Jekyll Site
+author: Your Name
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
