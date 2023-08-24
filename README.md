@@ -10,6 +10,7 @@ Welcome to my project! This is a brief description of what the project is about.
 - [Contributing](#contributing)
 - [License](#license)
 
+[![Banner 1](images/banners/ltr.jpg)](learning-to-rank)
 ## Features
 
 - List some key features of your project here.
