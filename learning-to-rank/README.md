@@ -1,3 +1,9 @@
 # Learning To Rank
 
-This is a brief description of what the project is about.
+Sample text.
+
+This is an inline equation: $x = y + z$
+
+Display equation:
+
+$$ f(x) = \frac{1}{x^2} $$
