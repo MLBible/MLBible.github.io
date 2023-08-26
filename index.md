@@ -4,4 +4,7 @@ title: Home
 permalink: /
 ---
 
-This is the home page.
+Explore these topics:
+
+[![Image Alt Text](images/banners/CLASSICAL ML.png)](https://mlbible.github.io/classical-ml/)
+[![Image Alt Text](images/banners/DEEP LEARNING.png)](https://mlbible.github.io/deep-learning/)
