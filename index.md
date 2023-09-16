@@ -11,8 +11,8 @@ This prints a line below.
 
 # Getting Started
 
-[![Alt Text](images/banners/Classical ML.png)](https://mlbible.github.io/classical-ml/)
-[![Alt Text](images/banners/Deep Learning.png)](https://mlbible.github.io/deep-learning/)
+[![Alt Text](images/banners/CLASSICAL ML.png)](https://mlbible.github.io/classical-ml/)
+[![Alt Text](images/banners/DEEP LEARNING.png)](https://mlbible.github.io/deep-learning/)
 
 - Add bullets
 - Add `hilighted text`
