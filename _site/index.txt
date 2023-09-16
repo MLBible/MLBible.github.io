@@ -37,32 +37,7 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <h1 id="machine-learning-for-beginners---a-curriculum">Machine Learning for Beginners - A Curriculum</h1>
-
-<p>This prints a line below.</p>
-
-<hr />
-
-<h1 id="getting-started">Getting Started</h1>
-
-<p><a href="https://mlbible.github.io/classical-ml/"><img src="images/banners/Classical ML.png" alt="Alt Text" /></a>
-<a href="https://mlbible.github.io/deep-learning/"><img src="images/banners/Deep Learning.png" alt="Alt Text" /></a></p>
-
-<ul>
-  <li>Add bullets</li>
-  <li>Add <code class="language-plaintext highlighter-rouge">hilighted text</code></li>
-  <li>Take the post-lecture quiz.</li>
-  <li>Complete the challenge.</li>
-  <li>Complete the assignment.</li>
-  <li>After completing a lesson group, visit the <a href="https://github.com/microsoft/ML-For-Beginners/discussions">Discussion Board</a> and “learn out loud” by filling out the appropriate PAT rubric. A ‘PAT’ is a Progress Assessment Tool that is a rubric you fill out to further your learning. You can also react to other PATs so we can learn together.</li>
-</ul>
-
-<blockquote>
-  <p>🌍 Add notes like this. 🌍</p>
-</blockquote>
-
-<hr />
-
+        
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
