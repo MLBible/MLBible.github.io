@@ -3,7 +3,6 @@ layout: default
 title: Home
 permalink: /
 ---
-# Machine Learning for Beginners - A Curriculum
 
 This prints a line below.
 
@@ -13,6 +12,7 @@ This prints a line below.
 
 [![Alt Text](images/banners/CLASSICAL ML.png)](https://mlbible.github.io/classical-ml/)
 [![Alt Text](images/banners/DEEP LEARNING.png)](https://mlbible.github.io/deep-learning/)
+[![Alt Text](images/banners/RECOMMENDATION SYSTEMS.png)](https://mlbible.github.io/rec-sys/)
 
 - Add bullets
 - Add `hilighted text`
