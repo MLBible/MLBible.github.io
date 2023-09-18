@@ -12,7 +12,7 @@ This prints a line below.
 
 [![Alt Text](images/banners/CLASSICAL ML.png)](https://mlbible.github.io/classical-ml/)
 [![Alt Text](images/banners/DEEP LEARNING.png)](https://mlbible.github.io/deep-learning/)
-[![Alt Text](images/banners/RECOMMENDATION SYSTEMS.png)](https://mlbible.github.io/rec-sys/)
+[![Alt Text](images/banners/Recommendation Systems.png)](https://mlbible.github.io/rec-sys/)
 
 - Add bullets
 - Add `hilighted text`
